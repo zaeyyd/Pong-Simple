@@ -1,4 +1,4 @@
 # Pong---Simple
 Simple Pong game coded with python.
 
-ponggif.gif
+![Gif of Pong Game](ponggif.gif)
